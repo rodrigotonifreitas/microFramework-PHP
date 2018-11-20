@@ -1,0 +1,15 @@
+{
+    "name": "rodfreitas/mfw",
+    "authors": [
+        {
+            "name": "rodrigotonifreitas",
+            "email": "rodrigo.tonifreitas@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "RodFreitas\\": "src"
+        }
+    }
+}
